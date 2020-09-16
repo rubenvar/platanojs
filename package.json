@@ -1,0 +1,16 @@
+{
+  "name": "platanojs",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/rubenvar/platanojs",
+  "bugs": {
+    "url": "https://github.com/rubenvar/platanojs/issues",
+    "email": "hey@rubenvara.io"
+  },
+  "license": "MIT",
+  "author": "Rubén Vara <hey@rubenvara.io> (https://rubenvara.io)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenvar/platanojs.git"
+  }
+}
